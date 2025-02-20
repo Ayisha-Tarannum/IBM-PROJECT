@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        KUBECONFIG = 'C:/Users/Lenovo/.kube/config'
+        KUBECONFIG = 'C:/Users/DELL/.kube/config'
     }
 
     stages {
