@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: my-repo/frontend:latest
+        image: ayisha07/frontend:latest
         ports:
         - containerPort: 80
